@@ -1,0 +1,87 @@
+// flex
+
+.flex {
+  display: flex;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.justify-space {
+  justify-content: space-between;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+// other
+.pointer {
+  cursor: pointer;
+}
+
+.border {
+  border: 2px solid yellow;
+}
+
+.center {
+  text-align: center;
+}
+
+.font-2 {
+  font-size: 2.3rem;
+}
+
+.marginB-2 {
+  margin-bottom: 2rem;
+}
+
+.marginB-3 {
+  margin-bottom: 3rem;
+}
+
+.marginB-8 {
+  margin-bottom: 8rem;
+}
+.margin-8 {
+  margin: 8rem 0;
+}
+
+// width
+.width-13 {
+  width: 13%;
+}
+
+.width-34 {
+  width: 34%;
+}
+
+.width-64 {
+  width: 64%;
+}
+
+.width-80 {
+  width: 80%;
+}
+
+// font weigt
+.fWeight-600 {
+  font-weight: 600;
+}
+
+.fWeight-300 {
+  font-weight: 300;
+}
